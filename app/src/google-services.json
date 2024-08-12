@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404725292878",
+    "project_id": "ohmquiz",
+    "storage_bucket": "ohmquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404725292878:android:8e35d3e5ffdcafbd89c81f",
+        "android_client_info": {
+          "package_name": "com.quiz.prize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnl3T9_wJ1IvaREG_zAuCCBxGEo7_HEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
